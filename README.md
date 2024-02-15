@@ -38,7 +38,7 @@ cd RETFound_MAE
 pip install -r requirement.txt
 ```
 
-3. Make it available for Juoiter Notebooks
+3. Make it available for Jupyter Notebooks
 
 ```
 python -m ipykernel install --user --name=retfound
