@@ -38,6 +38,12 @@ cd RETFound_MAE
 pip install -r requirement.txt
 ```
 
+3. Make it available for Juoiter Notebooks
+
+```
+python -m ipykernel install --user --name=retfound
+```
+
 
 ### Fine-tuning with RETFound weights
 
